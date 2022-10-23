@@ -14,7 +14,7 @@ class _HompageState extends State<Hompage> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-        title: Text("Home create"),
+        title: Text("Home page"),
       ),
     );
   }
